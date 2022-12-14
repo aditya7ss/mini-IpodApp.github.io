@@ -1,3 +1,3 @@
 # mini-IpodApp.github.io
 
-use mater branch
+use master branch
